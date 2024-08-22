@@ -9,6 +9,6 @@ git clone https://github.com/AgBKartikey/packages_apps_BatteryTile.git packages/
 
 echo 'dolby oneplus'
 # hardware/dolby
-git clone https://github.com/AgBKartikey/hardware_dolby.git -b DM hardware/dolby
+git clone https://github.com/AgBKartikey/hardware_dolby.git hardware/dolby
 
 echo "Completed, proceeding to lunch"
