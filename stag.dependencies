@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "device_xiaomi_sky-kernel",
+    "target_path": "device/xiaomi/sky-kernel"
+  },
+  {
+    "repository": "device_vendor_xiaomi",
+    "target_path": "vendor/xiaomi/sky"
+  },
+  {
+    "repository": "hardware_xiaomi_sky",
+    "target_path": "hardware/xiaomi"
+  }
+]
